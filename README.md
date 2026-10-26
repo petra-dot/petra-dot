@@ -8,13 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Creative%20Developer%20building%20tools%20for%20designers%20%26%20creators" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### About Me
 
 I build practical tools at the intersection of design, automation, and software. From Adobe extensions and creator utilities to desktop apps and local AI workflows, I like turning repetitive problems into useful tools.
 
-🔭 &nbsp;I'm currently working on **creative tools and workflow automation**  
-🌱 &nbsp;I'm currently learning **Design + code + automation**  
-😄 &nbsp;Pronouns: **he/him**
+ &nbsp;I'm currently working on **creative tools and workflow automation**  
+ &nbsp;I'm currently learning **Design + code + automation**  
+ &nbsp;Pronouns: **he/him**
 
 ### 🛠️ Tech Stack
 
